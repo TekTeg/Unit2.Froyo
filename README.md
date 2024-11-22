@@ -1,1 +1,1 @@
-## Creating list of customer orders and with the amount of orders.
+## Creating list of customer orders with the amount of orders.
